@@ -1,3 +1,3 @@
 # MLexamples
 
-**deneme** 
+**MNIST dataset prediction using Keras framework** 
